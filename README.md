@@ -1,5 +1,5 @@
 
-# <social-icon>
+# social-icon
 
 
-web component to create social icons, based on LitElement
+## web component to create social icons, based on LitElement
