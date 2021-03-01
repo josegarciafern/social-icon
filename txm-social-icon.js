@@ -1,9 +1,9 @@
 import { LitElement, html } from 'lit-element';
 
-class SocialIcon extends LitElement {
+class TxmSocialIcon extends LitElement {
     
     render() {
         return html`template`
     }
 }
-customElements.define('social-icon', SocialIcon);
+customElements.define('txm-social-icon', TxmSocialIcon);

@@ -1,8 +1,8 @@
 {
-  "name": "social-icon",
+  "name": "txm-social-icon",
   "version": "1.0.0",
   "description": "web component to create social icons, based on LitElement",
-  "main": "social-icon.js",
+  "main": "txm-social-icon.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
