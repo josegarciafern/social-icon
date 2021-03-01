@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/josegarciafern/social-icon#readme",
   "dependencies": {
-    "@webcomponents/webcomponentsjs": "^2.5.0",
     "lit-element": "^2.4.0"
+  },
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.5.0"
   }
 }
